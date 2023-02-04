@@ -1,0 +1,39 @@
+{
+
+
+  "data":[
+    {
+      "AdmobInterstitial":"ca-app-pub-3074941608132955/7532824360",
+      "AdmobBanner":"ca-app-pub-3074941608132955/7963235053",
+      "AdmobNative" : "ca-app-pub-3074941608132955/7348744112",
+      "AdmobOpen" : "ca-app-pub-3074941608132955/4323372944",
+
+      "FanInterstitial":"CAROUSEL_IMG_SQUARE_APP_INSTALL",
+      "FanBanner":"IMG_16_9_APP_INSTALL",
+      "FanNative" : "CAROUSEL_IMG_SQUARE_LINK",
+
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+      "UnityReword":"Rewarded_Android",
+
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+
+      "MaxInterstitial":"",
+      "MaxBanner":"",
+      "MaxNative" : "",
+
+      "IronKey" : "",
+      "AdsCount" : "3",
+
+      "ActiveApp" : "yes",
+
+      "Switch":"fan"
+
+
+    }
+  ]
+
+
+}
